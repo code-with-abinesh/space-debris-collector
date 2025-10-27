@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous Space Debris Collection Planner",
+  "description": "A web app simulation of a classical planning model for a satellite that collects space debris. Users can set initial fuel and storage, generate debris, and run a mission plan to collect debris, refuel, and return to base, observing the process step-by-step.",
+  "requestFramePermissions": []
+}
